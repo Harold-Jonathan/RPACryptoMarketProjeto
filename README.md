@@ -23,10 +23,11 @@ Este projeto de RPA foi desenvolvido usando **UiPath** e a API **CoinGecko** que
 3. Abra o `project.json` e execute o `Main.xaml`.
 4. O relatório será gerado automaticamente na sua Área de Trabalho.
 5. A base do mesmo pode ser usada para qualquer tipo de consulta de APIs sujeito somente a alterações
-   da tabela principal e troca de GET de API.
+   da tabela principal e troca de GET da API.
 
 
 Contato: Haroldjonathanavila@gmail.com
+
 
 
 
