@@ -1,6 +1,6 @@
 # RPACryptoMarketProjeto
 
-Este projeto de RPA foi desenvolvio usando **UiPath** e uma API que monitora o mercado de criptomoedas em tempo real.
+Este projeto de RPA foi desenvolvido usando **UiPath** e uma API que monitora o mercado de criptomoedas em tempo real.
 
 ![Projeto na prática](Images/UipathRPACriptoSample.png)
 
@@ -26,3 +26,4 @@ Este projeto de RPA foi desenvolvio usando **UiPath** e uma API que monitora o m
 
 
 Contato: Haroldjonathanavila@gmail.com
+
