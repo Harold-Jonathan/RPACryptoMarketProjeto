@@ -25,6 +25,7 @@ Este projeto de RPA foi desenvolvido usando **UiPath** e a API **CoinGecko** que
 5. A base do mesmo pode ser usada para qualquer tipo de consulta de APIs sujeito somente a alterações
    da tabela principal e troca de GET da API.
 
+16/03/2026: Fix tratamento de valores nulos (Null Handling) de NotNull para .Type <> JTokenType.Null
 
 Contato: Haroldjonathanavila@gmail.com
 
