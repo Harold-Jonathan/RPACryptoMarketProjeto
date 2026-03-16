@@ -1,7 +1,7 @@
 {
   "name": "RPACryptoMarketProjeto",
   "projectId": "845d6135-a153-4309-ba0e-b612d3866c74",
-  "description": "Projeto de RPA com consulta da API Coingecko sobre o top 10 criptomoedas proeminentes com log detalhando dia e hora do processo.",
+  "description": "Projeto inicial para registro de fluxo de data scrapping a respeito de criptomoedas atuais.",
   "main": "Main.xaml",
   "dependencies": {
     "ExcelActivitiesForProcessingAndFiltering.Activities": "[1.0.5]",
